@@ -1,0 +1,22 @@
+{
+  "name": "sass.utilities",
+  "version": "0.0.1",
+  "homepage": "https://github.com/aglobof/sass.utilities",
+  "authors": [
+    "Robb Schiller <robbschiller@gmail.com>"
+  ],
+  "description": "A glob of sass utility mixins",
+  "main": "_glob.scss",
+  "keywords": [
+    "sass",
+    "mixin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

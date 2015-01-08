@@ -1,4 +1,4 @@
-# sass.utilities
+# sass.utilities [![Build Status](https://travis-ci.org/aglobof/sass.utilities.svg?branch=master)](https://travis-ci.org/aglobof/sass.utilities) 
 > A glob of sass utility mixins
 
 ## Installation

@@ -1,0 +1,26 @@
+{
+  "name": "aglobof-sass.utilities",
+  "version": "1.1.0",
+  "description": "a glob of sass utility mixins",
+  "main": "_glob.scss",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aglobof/sass.utilities.git"
+  },
+  "keywords": [
+    "sass",
+    "mixin"
+  ],
+  "author": "Robb Schiller <robbschiller@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aglobof/sass.utilities/issues"
+  },
+  "homepage": "https://github.com/aglobof/sass.utilities"
+}
